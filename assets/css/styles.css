@@ -1,0 +1,32 @@
+#main-content {
+    margin-top: 100px;
+}
+
+#my_description {
+    border: 1px solid transparent;
+    border-image: url('../img/gradLine.png') 1 stretch;
+
+    font-size: 18px;
+    padding: 15px;
+}
+
+#socialBar {
+    margin-top: 30px;
+}
+
+#socialBar > a {
+    text-decoration: none;
+}
+
+#socialBar > a:hover {
+    text-decoration: none;
+}
+
+#socialBar img {
+    margin: 0 20px 0 20px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "andrewcpacifico.github.io",
+  "homepage": "https://github.com/andrewcpacifico/andrewcpacifico.github.io",
+  "authors": [
+    "Andrew C. Pacifico <andrewcpacifico@gmail.com>"
+  ],
+  "description": "Andrew Pacifico's Home Page",
+  "main": "package.json",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "andrewcpacifico"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
