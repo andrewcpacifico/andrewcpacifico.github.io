@@ -9,4 +9,5 @@
     <body>
         <h1>Andrew Cavalcante Pacifico</h1>
     </body>
+    <?php phpinfo(); ?>
 </html>
