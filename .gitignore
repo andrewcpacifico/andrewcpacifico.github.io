@@ -1,5 +1,0 @@
-*.swp
-bower_components/
-node_modules/
-_site
-.sass-cache
